@@ -1,8 +1,8 @@
-# Contact App
+# Contact Book
 
 A new Flutter project.
 
-ContactApp is a modern and intuitive contact management application that seamlessly fetches contacts from Firebase and displays them on your screen. It offers an easy-to-use interface with functionalities to add new contact information, mark contacts as favorites, and sort contacts for quick access.
+Contact Book is a modern and intuitive contact management application that seamlessly fetches contacts from Firebase and displays them on your screen. It offers an easy-to-use interface with functionalities to add new contact information, mark contacts as favorites, and sort contacts for quick access.
 
 ## Features:
 
