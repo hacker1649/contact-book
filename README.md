@@ -30,7 +30,7 @@ ContactApp is a modern and intuitive contact management application that seamles
 
 ✔️ Start the development server: `npm start`
 
-### Getting Started
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
