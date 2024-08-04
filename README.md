@@ -14,13 +14,14 @@ ContactApp is a modern and intuitive contact management application that seamles
 
 ✔️ **Sorting Options:** Organize your contacts with sorting features, including by name, date added, and favorite status.
 
-### Technology Stack:
+## Technology Stack:
 
 - Frontend: Flutter & Dart
 
 - Backend: Firebase
 
-### Installation and Setup:
+## Installation and Setup:
+
 ✔️ Clone the repository: `git clone https://github.com/hacker1649/contact-book.git`
 
 ✔️ Navigate to the project directory: `cd contact-book`
